@@ -20,7 +20,7 @@ const Hero = () => {
         className="relative z-10 max-w-2xl"
       >
         <span className="inline-block px-4 py-2 rounded-full border border-blue-500/20 bg-blue-500/10 text-blue-400 mb-6">
-          AI-Powered Digital Innovation
+          Innovate, Build, and Grow
         </span>
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
